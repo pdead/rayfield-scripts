@@ -1,4 +1,4 @@
-local Rayfield = loadstring(game:HttpGet('https://[Log in to view URL]'))()
+local Rayfield = loadstring(game:HttpGet('https://github.com/pdead/rayfield-scripts/commit/6fcd855c1fc2dd1607a8f7c08383126247af8e73'))()
 
 local Window = Rayfield:CreateWindow({
    Name = "Rayfield Example Window",
